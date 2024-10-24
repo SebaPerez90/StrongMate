@@ -1,5 +1,5 @@
 import { Text, View } from 'react-native';
-import '../../global.css';
+import '../../styles/global.css';
 
 export default function TabOneScreen() {
   return (
